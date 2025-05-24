@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on building new games. 
 - 📫 How to reach me [later]
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I'll be a 4th grader soon
+- ⚡ Fun fact: I'll be a 5th grader soon
 
 <!---
 stealthypython/stealthypython is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
